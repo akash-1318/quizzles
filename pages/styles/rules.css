@@ -1,0 +1,43 @@
+.rules__main{
+    padding: 5rem 8rem;
+}
+
+.rules__container{
+    display: flex;
+}
+
+.picture__div{
+    width: 40%;
+    height: 50%;
+}
+
+.picture__div > img{
+    height: 50rem;
+    width: 70%;
+    border-radius: 2rem;
+}
+
+.rules__div{
+    width: 60%;
+    border-radius: 2rem;
+}
+
+.rules__div > hr{
+    margin: 2rem 0rem;
+}
+
+.rules__div > ol{
+    font-size: 2rem;
+    line-height: 5rem;
+    padding-left: 2rem;
+}
+
+.rules__cta{
+    display: flex;
+    justify-content: space-between;
+}
+
+.continue__btn > i{
+    margin-left: 1rem;
+    margin-right: 0rem;
+}
